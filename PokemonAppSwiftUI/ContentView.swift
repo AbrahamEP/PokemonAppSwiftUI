@@ -10,11 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        NavigationView {
-            List(_) { (<#Identifiable#>) -> View in
-                <#code#>
-            }
-        }
+        Text("Hello world")
     }
 }
 
